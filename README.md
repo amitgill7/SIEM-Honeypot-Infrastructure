@@ -31,8 +31,8 @@ This project involved deploying a Windows virtual machine in Microsoft Azure as 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Microsoft Azure on Host PC: <br/>
+<img width="1890" height="891" alt="image" src="https://github.com/user-attachments/assets/c121975f-02bb-4b29-b535-eb6954e7646d" />
 <br />
 <br />
 Select the disk:  <br/>
